@@ -1,8 +1,8 @@
 # Ethereal <a href="https://github.com/EternityProjects-real/Ethereal"> <img align="right" align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848097154685468682/unknown.png" alt="EtherReal" width="8%" />
 </a>
 
-**Brought to you with :heart: by** &nbsp; <a href="https://github.com/EternityProjects-real">
-    <img align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="8%"/>
+**Brought to you with :heart: by** &nbsp;<a href="https://github.com/EternityProjects-real">
+    <img align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848345791353061386/Eternity_logo.png" alt="Etern!ty Projects" width="10%"/>
 </a>
 
 Feel free to send a Pull Request! 😄
@@ -109,6 +109,7 @@ Hosted on AWS by [Amazon](https://aws.amazon.com/) -->
 &nbsp;&nbsp;<a href="https://github.com/EternityProjects-real/"> <img src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="10%"/>
 </a>
 
-To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/) has waived all copyright and related or neighboring rights to this work except for the artworks being used.
+Etern!ty and EtherReal logo are intended to copyright under EternityProjects-Real supervised by the law.
 
 
