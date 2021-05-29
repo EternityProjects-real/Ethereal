@@ -1,35 +1,34 @@
-# Ethereal
-**Brought to you with** :heart: **by** ***Etern!ty***
+# Ethereal <a href="https://github.com/EternityProjects-real/Ethereal"> <img align="right" align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848097154685468682/unknown.png" alt="EtherReal" width="8%" />
+</a>
+
+**Brought to you with :heart: by** &nbsp; <a href="https://github.com/EternityProjects-real">
+    <img align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="8%"/>
+</a>
 
 Feel free to send a Pull Request! 😄
 
-Welcome to the community, feel free to drop a [mail](mailto:archismanhota@gmail.com)!
+Welcome to the community, feel free to drop a [mail](mailto:archismanhota@gmail.com?cc=eternityprojects.real@gmail.com)!
 
-## Contents
+<!-- ## Contents
+ -->
+<!-- Our Website can be found [**here**]() 😎 -->
 
-Our Website can be found [**here**](**) 😎
+The Video can be found [**here**]() 😎
 
-And the Video link [**here**](**) 😎
+### [Cicada 3301 : **Reinvented**](http://cicada3301reinvented.mstc.daiict.ac.in/)
 
-## Cicada 3301 : Reinvented
 
-<a href="http://cicada3301reinvented.mstc.daiict.ac.in/">
+<!-- <a href="http://cicada3301reinvented.mstc.daiict.ac.in/">
     <img src="https://i.imgur.com/IsdFjcR.png" alt="Visit Cicada 3301" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://devfolio.co/submissions/covid-vaccine-management">
-    <img src="https://i.imgur.com/WH75Te0.png" alt="Visit Devfolio" width="22%" />
+&nbsp;&nbsp;&nbsp;&nbsp; -->
+powered by &nbsp; <a href="https://devfolio.co/submissions/covid-vaccine-management">
+    <img align="center" src="https://i.imgur.com/WH75Te0.png" alt="Visit Devfolio" width="12%" />
 </a>
 
-<!-- ### About Flipr
-
-Flipr brings forth holistic solutions that will enable individuals to reach the next step in their career with confidence. They not only bring forth opportunities, but also help individuals identify skill gaps and enable them to fix those gaps. They plan to connect high skilled developers with relevant projects, ensuring on-time delivery to the client companies and assist in quality hiring and talent acquisition. They aim to create synergy between exceptional opportunities and worthy talents advancing towards a more creative and progressive ecosystem. They are transforming the perception of India, representing it as a product-based country from a service-based country on a global platform branding it as a world leader. 
- -->
 ### Theme 
 
 > Block-Chain Network
-
-<!-- Every country needs a contingency plan to preempt and manage disasters, like the one which currently hinders our lives. Come up with solutions using your technical know-how, some effective and practical Crisis Response Plans and innovations which countries can arm themselves with to thwart devastation. -->
 
 ### Problem Statement
 
@@ -57,25 +56,7 @@ But still the best advantage of using this system is, that there cannot be any k
 4) Since we already know that transactions with cryptocurrencies or over the block-chain are slow and hence difficult for day to day transaction and hence will not be able to stay alive in competition against Paytm, Phonepay etc. we came up with the a solution of creating a wallet that uses a credit system for every credit having the same value as of the currency in the block chain network.(further explanation will be given if asked for.)
 5) One more idea that we are currently thinking of is to issue cards (wallet cards) for online transactions where wallets or cryptocurrencies cannot be used or are not accepted, the cards will us the money already stored in the wallet and will work on the same way how some banks provide digital prepaid debit cards and will be issued by the card issuing authority such as visa, mastercard, rupay etc.
 
-
-<!-- 1) Contact & Helpline Information: 
-Using the below API, fetch the contact helpline number information for all the States and Union Territories. 
-API URL: https://api.rootnet.in/covid19-in/contacts 
-Please show data in the table form for all the States and Union Territories available in the API.
-2) Notifications & advisories: 
-Using the below API fetch the notification and advisories information. API URL: https://api.rootnet.in/covid19-in/notifications 
-Please show data in the table form for all the notification & advisories available in the API. 
-3) Hospitals Dashboards: 
-
-A. Hospitals & beds: 
-Using the below API fetch the rural and urban hospitals & beds information for all the states and Union Territories. 
-API URL: https://api.rootnet.in/covid19-in/hospitals/beds 
-Please show data in the table form for all the States and Union Territories available in the API. 
-
-B. Medical Colleges & beds: 
-Using the below API fetch the rural and urban hospitals & beds information for all the states and Union Territories. 
-API URL: https://api.rootnet.in/covid19-in/hospitals/medical-colleges Please show data in the table form for all the States and Union Territories available in the API. 
-
+<!-- 
 4) Plot a graph for the Deceased person
 
     * Upload data given to database 
@@ -84,26 +65,30 @@ API URL: https://api.rootnet.in/covid19-in/hospitals/medical-colleges Please sho
     * Also, include the filter of State, Gender, Age Groups and Date Range. 
     * Give the download button, to download the graph in pdf format. 
     * Give the text bar where the user can enter the mailing address and can also send the graph pdf on click. 
- -->
+     -->
 ## Preview
 
-### Home
+### Dasghboard
 
-<img src="https://i.imgur.com/v2uzqEY.png" alt="Home Page" />
+<img src="**" alt="Dashboard" />
 
-### Deceased Info
+### Miner's Portal
 
-<img src="https://i.imgur.com/O8ZUpKZ.png" alt="Deceased Info Page" />
+<img src="**" alt="Miner's Portal" />
 
-### Know More
+### NFTs Portal
 
-<img src="https://i.imgur.com/RQOwKx0.png" alt="Know More Page" />
+<img src="**" alt="NFTs Portal" />
+
+### CrowdSourcing Portal
+
+<img src="**" alt="CrowdSourcing Portal" />
 
 ## Contributing
 
 Feel free to open an issue (or even better, send a Pull Request) for making it even better. Contributions are always welcomed!! 😄
 
-Note that a PR needs to reach a certain level of engagement before it gets merged. This criteria is kept to maintain the quality of this list. The current list of open PRs can be found here: https://github.com/EternityProjects-real/VIT-hack2020/pulls
+Note that a PR needs to reach a certain level of engagement before it gets merged. This criteria is kept to maintain the quality of this list. The current list of open PRs can be found here: https://github.com/EternityProjects-real/
 
 As this project is community-driven, it'd be really helpful if you write about your PR and the changes you have done. This would help in merging it faster. 😇
 
@@ -111,16 +96,19 @@ As this project is community-driven, it'd be really helpful if you write about y
 
 
 
-### Hosted on 
+<!-- ### Hosted on 
 
 <a href="https://aws.amazon.com/">
     <img src="https://i.imgur.com/08Ldxtk.png" alt="Visit AWS" />
 </a>
-Hosted on AWS by [Amazon](https://aws.amazon.com/)
+Hosted on AWS by [Amazon](https://aws.amazon.com/) -->
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+&nbsp;&nbsp;<a href="https://github.com/EternityProjects-real/"> <img src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="9.5%"/>
+</a>
 
-To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/VIT-hack2020) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/) has waived all copyright and related or neighboring rights to this work.
+
 
