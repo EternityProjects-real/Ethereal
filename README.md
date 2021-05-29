@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+# Ethereal
+**Brought to you with** :heart: **by** ***Etern!ty***
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Feel free to send a Pull Request! 😄
 
-## Available Scripts
+Welcome to the community, feel free to drop a [mail](mailto:archismanhota@gmail.com)!
 
-In the project directory, you can run:
+## Contents
 
-### `npm start`
+Our Website can be found [**here**](**) 😎
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+And the Video link [**here**](**) 😎
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Cicada 3301 : Reinvented
 
-### `npm test`
+<a href="http://cicada3301reinvented.mstc.daiict.ac.in/">
+    <img src="https://i.imgur.com/IsdFjcR.png" alt="Visit Cicada 3301" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://devfolio.co/submissions/covid-vaccine-management">
+    <img src="https://imgur.com/a/PEy8L0a" alt="Visit Devfolio" />
+</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### About Flipr
 
-### `npm run build`
+Flipr brings forth holistic solutions that will enable individuals to reach the next step in their career with confidence. They not only bring forth opportunities, but also help individuals identify skill gaps and enable them to fix those gaps. They plan to connect high skilled developers with relevant projects, ensuring on-time delivery to the client companies and assist in quality hiring and talent acquisition. They aim to create synergy between exceptional opportunities and worthy talents advancing towards a more creative and progressive ecosystem. They are transforming the perception of India, representing it as a product-based country from a service-based country on a global platform branding it as a world leader. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Theme 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Crisis Response and Healthcare 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Every country needs a contingency plan to preempt and manage disasters, like the one which currently hinders our lives. Come up with solutions using your technical know-how, some effective and practical Crisis Response Plans and innovations which countries can arm themselves with to thwart devastation.
 
-### `npm run eject`
+### Problem Statement
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+> #### **Summary**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ Create a website for the COVID-19. 
+ The website will be going to include the following information: 
+ 1) Contact & Helpline Information 
+ 2) Notification & Advisory from the government Information. 
+ 3) Hospital Dashboard 
+ 4) Comparison of daily sample tests and confirmed cases of the patients.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> #### **Task in Details**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1) Contact & Helpline Information: 
+Using the below API, fetch the contact helpline number information for all the States and Union Territories. 
+API URL: https://api.rootnet.in/covid19-in/contacts 
+Please show data in the table form for all the States and Union Territories available in the API.
+2) Notifications & advisories: 
+Using the below API fetch the notification and advisories information. API URL: https://api.rootnet.in/covid19-in/notifications 
+Please show data in the table form for all the notification & advisories available in the API. 
+3) Hospitals Dashboards: 
 
-## Learn More
+A. Hospitals & beds: 
+Using the below API fetch the rural and urban hospitals & beds information for all the states and Union Territories. 
+API URL: https://api.rootnet.in/covid19-in/hospitals/beds 
+Please show data in the table form for all the States and Union Territories available in the API. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+B. Medical Colleges & beds: 
+Using the below API fetch the rural and urban hospitals & beds information for all the states and Union Territories. 
+API URL: https://api.rootnet.in/covid19-in/hospitals/medical-colleges Please show data in the table form for all the States and Union Territories available in the API. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4) Plot a graph for the Deceased person
 
-### Code Splitting
+    * Upload data given to database 
+    * Create an API which includes the data points “patient id, reported on, age estimate, gender, state, status”. 
+    * Through the API, plot a graph for the Deceased person. 
+    * Also, include the filter of State, Gender, Age Groups and Date Range. 
+    * Give the download button, to download the graph in pdf format. 
+    * Give the text bar where the user can enter the mailing address and can also send the graph pdf on click. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Preview
 
-### Analyzing the Bundle Size
+### Home
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img src="https://i.imgur.com/v2uzqEY.png" alt="Home Page" />
 
-### Making a Progressive Web App
+### Deceased Info
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img src="https://i.imgur.com/O8ZUpKZ.png" alt="Deceased Info Page" />
 
-### Advanced Configuration
+### Know More
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<img src="https://i.imgur.com/RQOwKx0.png" alt="Know More Page" />
 
-### Deployment
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Feel free to open an issue (or even better, send a Pull Request) for making it even better. Contributions are always welcomed!! 😄
 
-### `npm run build` fails to minify
+Note that a PR needs to reach a certain level of engagement before it gets merged. This criteria is kept to maintain the quality of this list. The current list of open PRs can be found here: https://github.com/EternityProjects-real/VIT-hack2020/pulls
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+As this project is community-driven, it'd be really helpful if you write about your PR and the changes you have done. This would help in merging it faster. 😇
+
+
+
+
+
+### Hosted on 
+
+<a href="https://aws.amazon.com/">
+    <img src="https://i.imgur.com/08Ldxtk.png" alt="Visit AWS" />
+</a>
+Hosted on AWS by [Amazon](https://aws.amazon.com/)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/VIT-hack2020) has waived all copyright and related or neighboring rights to this work.
+
