@@ -18,33 +18,47 @@ And the Video link [**here**](**) 😎
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://devfolio.co/submissions/covid-vaccine-management">
-    <img src="https://imgur.com/a/PEy8L0a" alt="Visit Devfolio" />
+    <img src="https://i.imgur.com/WH75Te0.png" alt="Visit Devfolio" width="22%" />
 </a>
 
-### About Flipr
+<!-- ### About Flipr
 
 Flipr brings forth holistic solutions that will enable individuals to reach the next step in their career with confidence. They not only bring forth opportunities, but also help individuals identify skill gaps and enable them to fix those gaps. They plan to connect high skilled developers with relevant projects, ensuring on-time delivery to the client companies and assist in quality hiring and talent acquisition. They aim to create synergy between exceptional opportunities and worthy talents advancing towards a more creative and progressive ecosystem. They are transforming the perception of India, representing it as a product-based country from a service-based country on a global platform branding it as a world leader. 
-
+ -->
 ### Theme 
 
-> Crisis Response and Healthcare 
+> Block-Chain Network
 
-Every country needs a contingency plan to preempt and manage disasters, like the one which currently hinders our lives. Come up with solutions using your technical know-how, some effective and practical Crisis Response Plans and innovations which countries can arm themselves with to thwart devastation.
+<!-- Every country needs a contingency plan to preempt and manage disasters, like the one which currently hinders our lives. Come up with solutions using your technical know-how, some effective and practical Crisis Response Plans and innovations which countries can arm themselves with to thwart devastation. -->
 
 ### Problem Statement
 
 > #### **Summary**
-
- Create a website for the COVID-19. 
+    
+#### Integration of block-chain technology into the pre-existing banking system to solve the problems like forgery, tempering etc while creating an ecosystem for trade of NFTs and secure storage of important documents.
+ 
+ Create a newtork for the Banking system
  The website will be going to include the following information: 
- 1) Contact & Helpline Information 
- 2) Notification & Advisory from the government Information. 
- 3) Hospital Dashboard 
- 4) Comparison of daily sample tests and confirmed cases of the patients.
+ 1) Creating an ecosystem for bank transaction through a secured system
+ 2) Creating a system to avoid any tempering/forgery with any transaction
+ 3) Option to buy/sell/trade Eternity coins
+ 4) Option to buy/sell/trade NFTs
 
-> #### **Task in Details**
+> #### **Our idea in brief**
 
-1) Contact & Helpline Information: 
+We have created a blockchain network to be used by the banking system for their day to day transaction as well as the network itself is user friendly making it easy to use.
+the network also has a rewarding system for the miners (depending on the amount and quantity they'll be mining for) and an NFT mining chance
+But still the best advantage of using this system is, that there cannot be any kind of tempering with the transaction or data, hence for example if the bank is supposed to charge a minimum rate of interest from a specific company is 8% but due to external influence they charge around 6% while not showing the same changes in the balance sheet this is a typical case of forgery, this can always be avoided in our system, since the banks have a fixed minimum rate of interest that will be stored in our database with its exact hash value, so if the returned value does not matches with the existing hash value, it will trigger an alert in the system and will freeze the accounts used for the transaction while the blocks will be quarantined.
+
+> #### **Detailed explaination of our idea** (Solution and further explanations)
+1) In the current baking system, there is a simple flaw that leads to banks lending more money that is already present in the circulation and/or is stored with them.(more explanation will be given if asked)
+2) Since we will be incorporating the banking system and the block-chain network, for every money that will be invested upon buying the coins will be sent to banks, this will increase the amount of money banks are holding hence increasing their loan lending capabilities and will also generate interest for keeping the money in the bank(if 6% is given by the bank, 4% will be given to the investor, 1% to us, 1% to the bank)
+3) Since the whole transaction occurs in the block chain network, there can not be any temperament or forgery in any way since it will trigger an alert and will quarantine the transaction details as well as the accounts.
+4) Since we already know that transactions with cryptocurrencies or over the block-chain are slow and hence difficult for day to day transaction and hence will not be able to stay alive in competition against Paytm, Phonepay etc. we came up with the a solution of creating a wallet that uses a credit system for every credit having the same value as of the currency in the block chain network.(further explanation will be given if asked for.)
+5) One more idea that we are currently thinking of is to issue cards (wallet cards) for online transactions where wallets or cryptocurrencies cannot be used or are not accepted, the cards will us the money already stored in the wallet and will work on the same way how some banks provide digital prepaid debit cards and will be issued by the card issuing authority such as visa, mastercard, rupay etc.
+
+
+<!-- 1) Contact & Helpline Information: 
 Using the below API, fetch the contact helpline number information for all the States and Union Territories. 
 API URL: https://api.rootnet.in/covid19-in/contacts 
 Please show data in the table form for all the States and Union Territories available in the API.
@@ -70,7 +84,7 @@ API URL: https://api.rootnet.in/covid19-in/hospitals/medical-colleges Please sho
     * Also, include the filter of State, Gender, Age Groups and Date Range. 
     * Give the download button, to download the graph in pdf format. 
     * Give the text bar where the user can enter the mailing address and can also send the graph pdf on click. 
-
+ -->
 ## Preview
 
 ### Home
