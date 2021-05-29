@@ -106,7 +106,7 @@ Hosted on AWS by [Amazon](https://aws.amazon.com/) -->
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-&nbsp;&nbsp;<a href="https://github.com/EternityProjects-real/"> <img src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="9.5%"/>
+&nbsp;&nbsp;<a href="https://github.com/EternityProjects-real/"> <img src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="10%"/>
 </a>
 
 To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/) has waived all copyright and related or neighboring rights to this work.
