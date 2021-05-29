@@ -110,7 +110,6 @@ Hosted on AWS by [Amazon](https://aws.amazon.com/) -->
 </a>
 
 To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/) has waived all copyright and related or neighboring rights to this work except for the artworks being used.
-
 Etern!ty and EtherReal logo are intended to copyright under EternityProjects-Real supervised by the law.
 
 
