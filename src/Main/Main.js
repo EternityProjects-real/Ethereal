@@ -19,7 +19,6 @@ function Main() {
             <Route path='/crowdSourcing' exact component={CrowdSourcing} />
             <Route path='/nft' component={Nft} />
             </Router>
-            
         </div>
     )
 }
