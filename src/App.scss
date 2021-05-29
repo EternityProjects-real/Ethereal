@@ -1,0 +1,29 @@
+body{
+  background-color: #161625;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #121212, 100%; 
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background: #272627;
+  ; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+.preloader{
+  padding-top: 12%;
+}
