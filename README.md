@@ -70,23 +70,23 @@ But still the best advantage of using this system is, that there cannot be any k
 
 ### Dasghboard
 
-<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406309120639006/1.png" alt="Dashboard" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406309120639006/1.png" alt="Dashboard" width="70%" />
 
 ### Miner's Portal
 
-<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406311892549632/2.png" alt="Miner's Portal" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406311892549632/2.png" alt="Miner's Portal" width="70%"/>
 
 ### Merchant Transaction
 
-<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406311887831061/3.png" alt="Merchant Transaction" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406311887831061/3.png" alt="Merchant Transaction" width="70%"/>
 
 ### Make your NFTs
 
-<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406314148298752/4.png" alt="NFTs Portal" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406314148298752/4.png" alt="NFTs Portal" width="70%"/>
 
 ### CrowdSourcing Portal
 
-<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406315092279328/5.png" alt="Make your own CrowdSource" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406315092279328/5.png" alt="Make your own CrowdSource" width="70%"/>
 
 ## Contributing
 
