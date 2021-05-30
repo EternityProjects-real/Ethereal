@@ -7,13 +7,13 @@
 
 Feel free to send a Pull Request! 😄
 
-Welcome to the community, feel free to drop a [mail](mailto:archismanhota@gmail.com?cc=eternityprojects.real@gmail.com)!
+Welcome to the community, feel free to drop a [mail](mailto:eternityprojects.real@gmail.com)!
 
 <!-- ## Contents
  -->
 <!-- Our Website can be found [**here**]() 😎 -->
 
-The Video can be found [**here**]() 😎
+The Video can be found [**here**](https://youtu.be/mo5LGzt6kpI) 😎
 
 ### [Cicada 3301 : **Reinvented**](http://cicada3301reinvented.mstc.daiict.ac.in/)
 
@@ -22,7 +22,7 @@ The Video can be found [**here**]() 😎
     <img src="https://i.imgur.com/IsdFjcR.png" alt="Visit Cicada 3301" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp; -->
-powered by &nbsp; <a href="https://devfolio.co/submissions/covid-vaccine-management">
+powered by &nbsp; <a href="https://devfolio.co/submissions/ethereal-4076">
     <img align="center" src="https://i.imgur.com/WH75Te0.png" alt="Visit Devfolio" width="100" height="21.7770034843" />
 </a>
 
@@ -92,7 +92,7 @@ But still the best advantage of using this system is, that there cannot be any k
 
 Feel free to open an issue (or even better, send a Pull Request) for making it even better. Contributions are always welcomed!! 😄
 
-Note that a PR needs to reach a certain level of engagement before it gets merged. This criteria is kept to maintain the quality of this list. The current list of open PRs can be found here: https://github.com/EternityProjects-real/
+Note that a PR needs to reach a certain level of engagement before it gets merged. This criteria is kept to maintain the quality of this list. The current list of open PRs can be found [**here**](https://github.com/EternityProjects-real/)
 
 As this project is community-driven, it'd be really helpful if you write about your PR and the changes you have done. This would help in merging it faster. 😇
 
