@@ -1,8 +1,8 @@
-# Ethereal <a href="https://github.com/EternityProjects-real/Ethereal"> <img align="right" align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848097154685468682/unknown.png" alt="EtherReal" width="8%" />
+# Ethereal <a href="https://github.com/EternityProjects-real/Ethereal"> <img align="right" align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848097154685468682/unknown.png" alt="EtherReal" height="97.35" width="88.64" />
 </a>
 
 **Brought to you with :heart: by** &nbsp;<a href="https://github.com/EternityProjects-real">
-    <img align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848345791353061386/Eternity_logo.png" alt="Etern!ty Projects" width="10%"/>
+    <img align="center" src="https://cdn.discordapp.com/attachments/844331647259508749/848345791353061386/Eternity_logo.png" alt="Etern!ty Projects" width="100" height="25.8064516129" />
 </a>
 
 Feel free to send a Pull Request! 😄
@@ -23,7 +23,7 @@ The Video can be found [**here**]() 😎
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp; -->
 powered by &nbsp; <a href="https://devfolio.co/submissions/covid-vaccine-management">
-    <img align="center" src="https://i.imgur.com/WH75Te0.png" alt="Visit Devfolio" width="12%" />
+    <img align="center" src="https://i.imgur.com/WH75Te0.png" alt="Visit Devfolio" width="100" height="21.7770034843" />
 </a>
 
 ### Theme 
@@ -70,19 +70,23 @@ But still the best advantage of using this system is, that there cannot be any k
 
 ### Dasghboard
 
-<img src="**" alt="Dashboard" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406309120639006/1.png" alt="Dashboard" />
 
 ### Miner's Portal
 
-<img src="**" alt="Miner's Portal" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406311892549632/2.png" alt="Miner's Portal" />
 
-### NFTs Portal
+### Merchant Transaction
 
-<img src="**" alt="NFTs Portal" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406311887831061/3.png" alt="Merchant Transaction" />
+
+### Make your NFTs
+
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406314148298752/4.png" alt="NFTs Portal" />
 
 ### CrowdSourcing Portal
 
-<img src="**" alt="CrowdSourcing Portal" />
+<img src="https://cdn.discordapp.com/attachments/844331647259508749/848406315092279328/5.png" alt="Make your own CrowdSource" />
 
 ## Contributing
 
@@ -106,10 +110,8 @@ Hosted on AWS by [Amazon](https://aws.amazon.com/) -->
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-&nbsp;&nbsp;<a href="https://github.com/EternityProjects-real/"> <img src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="10%"/>
+&nbsp;&nbsp;<a href="https://github.com/EternityProjects-real/"> <img src="https://cdn.discordapp.com/attachments/844331647259508749/848096913785225236/unknown.png" alt="Etern!ty Projects" width="88" height="31"/>
 </a>
 
 To the extent possible under law, [Etern!ty](https://github.com/EternityProjects-real/) has waived all copyright and related or neighboring rights to this work except for the artworks being used.
 Etern!ty and EtherReal logo are intended to copyright under EternityProjects-Real supervised by the law.
-
-
