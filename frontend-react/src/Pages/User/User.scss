@@ -1,0 +1,186 @@
+.user{
+    margin-left: 120px;
+    align-items: center;
+       
+    @media only screen and (max-width: 600px) {
+        margin-left: 0px; 
+    }
+}
+
+.Heading{
+    font-size: 3rem;
+    color: #C1C1C1;
+    margin: 0 0 60px 30px;
+}
+.cardlayout{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    @media only screen and (max-width: 1400px) {
+        grid-template-columns: auto auto;    
+        transition: 0.5s;
+    }
+    @media only screen and (max-width: 600px) {
+        grid-template-columns: auto;    
+        transition: 0.5s;
+    }
+}
+
+.modal-initbuttons{
+    margin: 30px;
+    padding: 3rem 4rem 3rem 4rem; 
+    font-size: 200%;
+    color:#A4A5FF;
+    border: none;    
+    background-color: #1E1E30;
+    border-radius: 20px;
+}
+.modal-initbuttonsspan{
+    
+    :hover{
+        transform: scale(1.04);
+        font-weight: bolder;
+        background-color: #A4A5FF;
+        color:#1E1E30;
+        transition: 600ms;
+    }
+}
+
+.buttonalign{
+    padding-top: 60px;
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    @media only screen and (max-width: 600px) {
+        grid-template-columns: auto;    
+    }
+    
+}
+
+.Modal1Display{
+    color: white;
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+    background-color: #1E1E30;
+    margin: 20%;
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+.button-modal{
+    margin: 30px 20px 0px 0px;
+    padding: 10px;
+    background-color: #55558A;
+    color: white;
+    border: none;
+}
+
+$bg: #1b2431;
+$light-text: #738297;
+$dark-text: #222336;
+$light-bg: #81A7F8;
+
+
+
+
+
+.projects-header {
+	color: white;
+	padding: 22px;
+
+	.count,
+	.title {
+		display: inline-block;
+	}
+	
+	.count {
+		color: #738297;
+	}
+	
+	.zmdi {
+		cursor: pointer;
+		float: right;
+		font-size: 16px;
+		margin: 5px 0;
+	}
+	
+	.title {
+		font-size: 21px;
+		
+		+ .count {
+			margin-left: 5px;
+		}
+	}
+}
+thead{
+	background-color: linear-gradient(222.46deg, #A4A5FF 32.21%, rgba(255, 255, 255, 0) 67.68%), #81A7F8;;
+}
+.projects-table {
+	background: #272627;
+    border-radius: 20px;
+    margin: 1rem;
+    
+    	
+	td,
+	th {
+		color: #000;
+		padding: 10px 22px;
+		vertical-align: middle;
+	}
+	
+	td p {
+		font-size: 12px;
+		color: white;
+		&:last-of-type {
+			color: $light-text;
+			font-size: 11px;
+		}
+	}
+	
+	th {
+		background-color: $light-bg;
+	}
+	
+	tr {
+		&:hover {
+			background-color: lighten($dark-text, 5%);
+		}
+		
+		&:not(:last-of-type) {
+			border-bottom: 1px solid $light-bg;
+		}
+	}
+	
+	.member {
+		figure,
+		.member-info {
+			display: inline-block;
+			vertical-align: top;
+		}
+		
+		figure + .member-info {
+			margin-left: 7px;
+		}
+		
+		img {
+			border-radius: 50%;
+			height: 32px;
+			width: 32px;
+		}
+	}
+	
+	
+}
+
+.table-blocks{
+    display: grid;
+    grid-template-columns: auto auto;
+    @media only screen and (max-width: 600px) {
+        grid-template-columns: auto;    
+    }
+    
+}

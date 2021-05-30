@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {{blocks}}
+    <form method="post" action="/mintnfts" enctype="multipart/form-data">
+        <p>Create nfts</p>
+        <dl>
+            <input type="file" name="file" autocomplete="off" required>
+        </dl>
+        <label for="private_key">private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <label for="tittle_nft">tittle_nft</label><br>
+        <input type="text" id="tittle_nft" name="tittle_nft"><br>
+        <label for="desc_nft">desc_nft</label><br>
+        <input type="text" id="desc_nft" name="desc_nft"><br>
+        <label for="price_nft">price_nft</label><br>
+        <input type="text" id="price_nft" name="price_nft"><br>
+        <input type="submit" value="Submit">
+    </form>
+    <br><br><br><br>
+    <form method="post" action="/buynfts">
+        <p>Buy Nfts</p>
+        <label for="amount">amount</label><br>
+        <input type="text" id="amount" name="amount"><br>
+        <label for="nft_id">nft_id</label><br>
+        <input type="text" id="nft_id" name="nft_id"><br>
+        <label for="private_key">private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

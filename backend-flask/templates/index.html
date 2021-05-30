@@ -1,0 +1,40 @@
+<body>
+    {{msg}}<br>
+    <form method="post" action="/makepayment">
+        <p>Payment</p>
+        <label for="amount">amount</label><br>
+        <input type="text" id="amount" name="amount"><br>
+        <label for="private_key">Sender private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <label for="addres_key">Reciver addres_key</label><br>
+        <input type="text" id="addres_key" name="addres_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+    <br><br><br><br>
+    <form method="post" action="/addfunds">
+        <p>Add funds</p>
+        <label for="amount_inr">amount_inr</label><br>
+        <input type="text" id="amount_inr" name="amount_inr"><br>
+        <label for="amount">amount</label><br>
+        <input type="text" id="amount" name="amount"><br>
+        <label for="private_key">private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+    <br><br><br><br>
+    <form method="post" action="/sellfunds">
+        <p>Sell Funds</p>
+        <label for="amount">amount</label><br>
+        <input type="text" id="amount" name="amount"><br>
+        <label for="private_key">Sender private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+    {{block}}
+    <form method="post" action="/mine">
+        <p>Mine</p>
+        <label for="private_key">private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>

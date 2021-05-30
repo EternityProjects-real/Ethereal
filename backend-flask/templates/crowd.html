@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {{crowd}}
+    <form method="post" action="/crowdsourcing">
+        <p>Create crowdsourcing</p>
+        <label for="problem_desc">problem_desc</label><br>
+        <input type="text" id="problem_desc" name="problem_desc"><br>
+        <label for="title_desc">title_desc</label><br>
+        <input type="text" id="title_desc" name="title_desc"><br>
+        <label for="target_required">target_required</label><br>
+        <input type="text" id="target_required" name="target_required"><br>
+        <label for="private_key">private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+    <br><br><br><br>
+    <form method="post" action="/paycrowdsourcing">
+        <p>Pay crowdsourcing</p>
+        <label for="amount">amount</label><br>
+        <input type="text" id="amount" name="amount"><br>
+        <label for="title_desc">title_desc</label><br>
+        <input type="text" id="title_desc" name="title_desc"><br>
+        <label for="addres_key">addres_key</label><br>
+        <input type="text" id="addres_key" name="addres_key"><br>
+        <label for="private_key">private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

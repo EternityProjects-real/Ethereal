@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+
+<body>
+    <form method="post" action="/signup">
+        <p>Signup</p>
+        <label for="name">name</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="dob">dob</label><br>
+        <input type="text" id="dob" name="dob"><br>
+        <label for="miner_status">miner_status</label><br>
+        <input type="text" id="miner_status" name="miner_status"><br>
+        <label for="pan_no">pan_no</label><br>
+        <input type="text" id="pan_no" name="pan_no"><br>
+        <label for="mobile_no">mobile_no</label><br>
+        <input type="text" id="mobile_no" name="mobile_no"><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <br><br><br><br>
+
+    <form method="post" action="/login">
+        <p>login</p>
+        <label for="name">name</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="private_key">private_key</label><br>
+        <input type="text" id="private_key" name="private_key"><br>
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+
+</html>
